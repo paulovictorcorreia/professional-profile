@@ -1,56 +1,31 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "name":"Paulo Victor Correia",
+    "occupation":"I'm a computer engineering masters' degree student",
+    "description":"I work as a Data Scientist on the Scientific Data Analysis Lab from the Computer Engineering Department in Federal University of Rio Grande do Norte, and have been working with Educational Data Mining, Time Series Analysis and Compression and Chat-Bots with rasa framework.",
+    "image":"perfil_paulo.jpg",
+    "bio":"My name is Paulo, I'm a masters degree student on eletrical and computer engineering and working with data science research. I am specialized on python for machine learning, researching time series analysis currently and also building chat bots for an industrial environment. I have worked in the past with digital signal processing and web development, with skills on using ReactJS and NodeJS for web and Microprocessors for signal analysis.",
+    "contactmessage":"Feel free to contact me at anytime!",
+    "email": "pvictor@ufrn.edu.br",
     "phone": "555-555-5555",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
+      "city":"Natal",
+      "state":"Rio Grande do Norte",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://paulovictorcorreia.github.io/professional-profile",
+    "resumedownload":"http://paulovictorcorreia.github.io/professional-profile",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/paulo-victor-queiroz-correia-641b92163/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/paulovictorcorreia",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -58,95 +33,104 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Federal University of Rio Grande do Norte",
+        "degree":"Bachelors Degree in Science and Technology",
+        "graduated":"January, 2014 - December, 2016",
+        "description":"Studied the basics of mechanical, computer, material, eletrical and sanitary engineerings."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Federal University of Rio Grande do Norte",
+        "degree":"Bachelors Degree Computer Engineering",
+        "graduated":"January, 2017 - July, 2019",
+        "description":"Developed basic skills on parallel programming, real time systems, control systems, industrial automation, computer networks, digital image processing and digital signal processing. At the end, I got specialized in data science and machine learning."
+      },
+      {
+        "school":"Federal University of Rio Grande do Norte",
+        "degree":"Masters Degree Eletrical and Computer Engineering",
+        "graduated":"August, 2019 - Present",
+        "description":"Currently working with time series in industrial environments."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Barreira do Inferno's Military Launch Center",
+        "title":"Intern worker",
+        "years":"August, 2018 - October, 2018",
+        "description":"Developed User Interfaces and Digital Signal Processing jobs with BeagleBone, RaspBerry and Arduino for an airship."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Funcern",
+        "title":"Developer of Backend Application",
+        "years":"June, 2019 - July, 2019",
+        "description":"Developed and debugged for a month a SCRUM methodology framework using Python's Django."
       }
     ],
     "skills":[
+      {
+        "name":"Python for DataScience",
+        "level":"80%"
+      },
+      {
+        "name":"Django",
+        "level":"25%"
+      },
       {
         "name":"Git",
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"ReactJs",
+        "level":"40%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"NodeJS",
+        "level":"40%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"20%"
       },
       {
         "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "level":"30%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Classifying Song genres with Pipelines",
+        "category":"Machine Learning and Python application on a song genre classification problem.",
+        "image":"song_genres_image.jpeg",
+        "url":"https://medium.com/analytics-vidhya/classifying-song-genres-with-pipelines-c7186f66cebd"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Interpreting Machine Learning Models in Census Income Data set",
+        "category":"Using techniques of Explainable AI to understand socioeconomic differences on US population census data of 1994.",
+        "image":"census_image.jpeg",
+        "url":"https://medium.com/analytics-vidhya/interpreting-machine-learning-models-in-census-income-data-set-56c9dc7e0f27"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Using GPU to boost XGBoost Training Time",
+        "category":"Using GPU on XGBoost algorithms to enhance fit timing of the model.",
+        "image":"gpu_boost_image.jpeg",
+        "url":"https://medium.com/analytics-vidhya/using-gpu-to-boost-xgboost-training-time-533a114164d7"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Building an Intelligent tic-tac-toe",
+        "category":"Building an tic-tac-toe game on web with p5.js and min-max algorithm. Photo by Rock'n Roll Monkey on Unsplash.",
+        "image":"robot_tictactoe.jpg",
+        "url":"https://paulovictorcorreia.github.io/tictactoe/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Building an Intelligent tic-tac-toe",
+        "category":"Repository for the 11th OmniStack Week project, powered by RocketSeat.",
+        "image":"be-the-hero-image.png",
+        "url":"https://github.com/paulovictorcorreia/be-the-hero"
       }
+
+
+      
     ]
   },
   "testimonials":{
