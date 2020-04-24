@@ -123,10 +123,16 @@
         "url":"https://paulovictorcorreia.github.io/tictactoe/"
       },
       {
-        "title":"Building an Intelligent tic-tac-toe",
+        "title":"Be the hero",
         "category":"Repository for the 11th OmniStack Week project, powered by RocketSeat.",
         "image":"be-the-hero-image.png",
         "url":"https://github.com/paulovictorcorreia/be-the-hero"
+      },
+      {
+        "title":"SmartBird, a smart flappybird with genetic algorithm",
+        "category":"Building a flappybird brain that learns how to properly play the game with genetic algorithms and p5py.",
+        "image":"flappybird.png",
+        "url":"https://github.com/paulovictorcorreia/smartbird-p5py"
       }
 
 
